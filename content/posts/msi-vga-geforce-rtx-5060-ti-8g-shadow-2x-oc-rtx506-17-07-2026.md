@@ -3,7 +3,6 @@ title: "MSI VGA GEFORCE RTX 5060 TI 8G SHADOW 2X OC RTX5060TI 8GB GDDR7 128B DX1
 date: 2026-07-16T21:25:04.157Z
 draft: false
 cover:
-  image: "https://m.media-amazon.com/images/I/71JjEdULLHL._AC_UL320_.jpg"
   relative: false
 buyLink: "https://www.amazon.com.tr/dp/B0F8BQ3KYW?tag=motodash-21"
 price: "21999 TL"
