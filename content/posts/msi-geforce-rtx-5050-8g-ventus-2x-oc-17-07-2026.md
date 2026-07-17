@@ -8,9 +8,6 @@ relative: false
 buyLink: "https://www.amazon.com.tr/dp/B096Y5WCCZ?tag=motodash-21"
 price: "14599 TL"
 ---
-
-![MSI GEFORCE RTX 5050 8G VENTUS 2X OC](https://m.media-amazon.com/images/I/71I6T45IdjL._AC_UL320_.jpg)
-
 Yeni nesil ekran kartı teknolojisini bütçesini yormadan sistemine dahil etmek isteyen oyuncular için harika bir fırsat kapıda! MSI'ın kompakt ve performans odaklı tasarımı **MSI GEFORCE RTX 5050 8G VENTUS 2X OC**, yeni nesil mimarisi ve DLSS 4 desteğiyle dikkat çekerken ciddi bir fiyat düşüşüyle karşımıza çıkıyor. Hem güncel teknolojilere adım atmak hem de bütçe dostu bir MSI kalitesi deneyimlemek isteyenler için bu indirim, giriş seviyesi sistem toplayanlara kaçırılmayacak bir fırsat sunuyor.
 
 ### 📊 Fırsat Detayları
