@@ -3,8 +3,7 @@ title: "MSI GEFORCE RTX 5050 8G VENTUS 2X OC Alınır Mı? İnceleme ve En Ucuz 
 date: 2026-07-16T22:39:30.979Z
 draft: false
 cover:
-  image: "https://m.media-amazon.com/images/I/71I6T45IdjL._AC_UL320_.jpg"
-  relative: false
+relative: false
   hidden: false
 buyLink: "https://www.amazon.com.tr/dp/B096Y5WCCZ?tag=motodash-21"
 price: "14599 TL"
