@@ -11,3 +11,10 @@ title = "Donanım Avcısı Fırsatları"
 [params]
   disableSpecial1stPost = true
   
+[related]
+  threshold = 20
+  includeNewer = true
+  toLower = true
+  [[related.indices]]
+    name = "title"
+    weight = 100
