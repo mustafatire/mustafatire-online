@@ -1,6 +1,9 @@
 baseURL = "https://mustafatire.online/"
 languageCode = "tr-TR"
 title = "Donanım Avcısı Fırsatları"
+description = "En güncel donanım indirimleri, teknoloji fırsatları, bilgisayar parçaları ve sıcak Amazon indirimleri."
+author = "Donanım Avcısı"
+enableRobotsTXT = true
 
 [module]
   [[module.imports]]
@@ -8,9 +11,48 @@ title = "Donanım Avcısı Fırsatları"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.8
+  filename = "sitemap.xml"
+
 [params]
-  disableSpecial1stPost = true
+  env = "production"
+  description = "En güncel donanım indirimleri, teknoloji fırsatları ve sıcak Amazon indirimleri."
+  author = "Donanım Avcısı"
   
+  # PaperMod SEO & Google Schema Özellikleri
+  schema = true
+  
+  # Görsel & Arayüz Özellikleri
+  disableSpecial1stPost = true
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+
+  # Telegram İkonu (Sitenin Üst/Alt Kısmında İkon Olarak Görünür)
+  [[params.socialIcons]]
+    name = "telegram"
+    url = "https://t.me/donanimavcisi"
+
+# Üst Menü Navigasyonu
+[[menu.main]]
+  identifier = "home"
+  name = "🏠 Ana Sayfa"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "telegram"
+  name = "📢 Telegram Kanalı"
+  url = "https://t.me/donanimavcisi"
+  weight = 20
+
+# İlgili/Benzer Ürünler Algoritması
 [related]
   threshold = 20
   includeNewer = true
@@ -18,5 +60,3 @@ title = "Donanım Avcısı Fırsatları"
   [[related.indices]]
     name = "title"
     weight = 100
-
-
