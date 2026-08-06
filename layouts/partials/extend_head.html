@@ -1,0 +1,13 @@
+<!-- Google Arama Sonuçlarında Küçük/Büyük Resim Önizlemesine İzin Ver (ÇOK ÖNEMLİ) -->
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+<!-- OpenGraph & Twitter Kapak Görseli Etiketleri (Google ve Sosyal Medya İçin) -->
+{{- if .Params.cover.image }}
+<meta property="og:image" content="{{ .Params.cover.image }}">
+<meta name="twitter:image" content="{{ .Params.cover.image }}">
+<meta name="twitter:card" content="summary_large_image">
+{{- else if .Params.images }}
+<meta property="og:image" content="{{ index .Params.images 0 }}">
+<meta name="twitter:image" content="{{ index .Params.images 0 }}">
+<meta name="twitter:card" content="summary_large_image">
+{{- end }}
