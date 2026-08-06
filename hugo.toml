@@ -22,9 +22,6 @@ enableRobotsTXT = true
   description = "En güncel donanım indirimleri, teknoloji fırsatları ve sıcak Amazon indirimleri."
   author = "Donanım Avcısı"
   
-  # PaperMod SEO & Google Schema Özellikleri
-  schema = true
-  
   # Görsel & Arayüz Özellikleri
   disableSpecial1stPost = true
   ShowBreadCrumbs = true
@@ -34,7 +31,11 @@ enableRobotsTXT = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
 
-  # Telegram İkonu (Sitenin Üst/Alt Kısmında İkon Olarak Görünür)
+  # PaperMod Schema (Google Yapısal Veri Düzeltilmiş Ayarı)
+  [params.schema]
+    publisherType = "Organization"
+
+  # Telegram İkonu (Sitenin Üst/Alt Kısmında Görünür)
   [[params.socialIcons]]
     name = "telegram"
     url = "https://t.me/donanimavcisi"
