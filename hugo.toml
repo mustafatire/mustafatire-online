@@ -38,7 +38,7 @@ enableRobotsTXT = true
   [params.schema]
     publisherType = "Organization"
 
-  # Telegram İkonu (Sitenin Üst/Alt Kısmında Görünür)
+  # Telegram İkonu
   [[params.socialIcons]]
     name = "telegram"
     url = "https://t.me/donanimavcisi"
@@ -51,10 +51,16 @@ enableRobotsTXT = true
   weight = 10
 
 [[menu.main]]
+  identifier = "categories"
+  name = "🏷️ Kategoriler"
+  url = "/categories/"
+  weight = 20
+
+[[menu.main]]
   identifier = "telegram"
   name = "📢 Telegram Kanalı"
   url = "https://t.me/donanimavcisi"
-  weight = 20
+  weight = 30
 
 # İlgili/Benzer Ürünler Algoritması
 [related]
