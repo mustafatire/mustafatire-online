@@ -1,0 +1,19 @@
+/* Ana Sayfa ve Liste Kartlarındaki Kapak Görsellerini Sınırla ve Beyaz Arka Plan Ver */
+.entry-cover img {
+    max-height: 280px !important;
+    width: auto !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    display: block !important;
+    object-fit: contain !important;
+    background-color: #ffffff !important;
+    padding: 15px !important;
+    border-radius: 10px !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05) !important;
+}
+
+.entry-cover {
+    text-align: center !important;
+    background: transparent !important;
+    margin-bottom: 15px !important;
+}
