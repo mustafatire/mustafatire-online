@@ -31,7 +31,10 @@ enableRobotsTXT = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
 
-  # PaperMod Schema (Google Yapısal Veri Düzeltilmiş Ayarı)
+  # Sadece Türkiye'de Aktif Kullanılan Paylaşım Butonları
+  ShareButtons = ["telegram", "whatsapp", "x", "facebook"]
+
+  # PaperMod Schema (Google Yapısal Veri Ayarı)
   [params.schema]
     publisherType = "Organization"
 
