@@ -11,13 +11,15 @@
       gtag('config', 'AW-18436972630');
     </script>
     
-    <!-- Event snippet for Sayfa görüntüleme conversion page -->
+    <!-- Tıklama İzleme Scripti (YENİ) -->
     <script>
-      gtag('event', 'conversion', {
-          'send_to': 'AW-18436972630/3-l0CJicwvEcENbAt9dE',
-          'value': 1.0,
-          'currency': 'TRY'
-      });
+      function trackTelegramClick() {
+        gtag('event', 'conversion', {
+            'send_to': 'AW-18436972630/3-l0CJicwvEcENbAt9dE',
+            'value': 1.0,
+            'currency': 'TRY'
+        });
+      }
     </script>
     
     <meta charset="UTF-8">
@@ -36,7 +38,6 @@
         }
         body {
             font-family: 'Inter', sans-serif;
-            background-color: #0f172a;
             color: #f8fafc;
             display: flex;
             flex-direction: column;
@@ -46,14 +47,20 @@
             text-align: center;
             line-height: 1.6;
             padding: 20px;
+            
+            /* YENİ: Karanlık teknoloji arka planı eklendi */
+            background: linear-gradient(rgba(15, 23, 42, 0.90), rgba(15, 23, 42, 0.95)), 
+                        url('https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=1920&auto=format&fit=crop') no-repeat center center fixed;
+            background-size: cover;
         }
         .container {
             max-width: 650px;
-            background: #1e293b;
+            background: rgba(30, 41, 59, 0.85); /* Hafif şeffaflık eklendi */
+            backdrop-filter: blur(10px); /* Arka planı hafif bulanıklaştırır */
             padding: 40px;
             border-radius: 20px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-            border: 1px solid #334155;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.7);
+            border: 1px solid rgba(51, 65, 85, 0.5);
         }
         .icon {
             font-size: 4rem;
@@ -74,8 +81,24 @@
         p.subtitle {
             font-size: 1.1rem;
             color: #94a3b8;
-            margin-bottom: 35px;
+            margin-bottom: 25px;
         }
+        
+        /* YENİ: Sosyal Kanıt Stili */
+        .social-proof {
+            font-size: 0.95rem;
+            color: #cbd5e1;
+            margin-bottom: 15px;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+        .social-proof strong {
+            color: #10b981;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
         .cta-button {
             display: inline-block;
             background: linear-gradient(135deg, #0ea5e9, #2563eb);
@@ -97,7 +120,7 @@
         .features {
             margin-top: 40px;
             text-align: left;
-            background: #0f172a;
+            background: rgba(15, 23, 42, 0.6);
             padding: 25px;
             border-radius: 12px;
         }
@@ -145,9 +168,20 @@
     <div class="container">
         <div class="icon">⚡</div>
         <h1>Donanım Avcısı</h1>
-        <p class="subtitle">Şişirilmiş fiyatlara son! Pazardaki gerçek donanım indirimlerini anında topluluğumuzda paylaşıyoruz.</p>
         
-        <a href="https://t.me/donanimavcisi" class="cta-button" target="_blank" rel="noopener noreferrer">
+        <!-- YENİ: Aciliyet metni eklendi -->
+        <p class="subtitle">
+            Şişirilmiş fiyatlara son! Pazardaki gerçek donanım indirimlerini anında topluluğumuzda paylaşıyoruz.<br><br>
+            <strong style="color: #f8fafc;">Stoklar tükenmeden anlık dip fiyatları yakalamak için aramıza katıl.</strong>
+        </p>
+        
+        <!-- YENİ: Sosyal kanıt (Aktif üye sayısı) eklendi -->
+        <div class="social-proof">
+            🔥 Şu an <strong>17 Donanım Avcısı</strong> fırsatları takip ediyor!
+        </div>
+        
+        <!-- YENİ: Dönüşüm takibi onclick eventi ile butona bağlandı -->
+        <a href="https://t.me/donanimavcisi" class="cta-button" target="_blank" rel="noopener noreferrer" onclick="trackTelegramClick()">
             Telegram Kanalına Katıl ➔
         </a>
         
