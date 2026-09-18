@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789728945726",
+    "baslik": "SSD BLACK NVME 1TB M2 7300/6300 MB/S",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 19999,
+    "yeniFiyat": 18999,
+    "indirimOrani": 5,
+    "netKazanc": 1000,
+    "resim": "https://m.media-amazon.com/images/I/618RFfiA8dL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B7CPSN2K?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789726255115",
     "baslik": "SanDisk Extreme PRO 4TB Taşınabilir SSD - 2000MB / s'ye kadar Okuma/Yazma Hızları, USB 3.2 Gen2 x2, Dövme Alüminyum Muhafaza, 2 metrelik düşme koruması ve IP55 direnci",
     "kategori": "ssd-ram",
@@ -262,20 +276,6 @@
     "netKazanc": 678,
     "resim": "https://m.media-amazon.com/images/I/51xLbWq01iL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0CJML6LQZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789683225357",
-    "baslik": "Everest SM-G14 DUSK Usb Siyah 1600-7200 dpi RGB Ledli Gaming Oyuncu Mouse",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 449,
-    "yeniFiyat": 404,
-    "indirimOrani": 10,
-    "netKazanc": 45,
-    "resim": "https://m.media-amazon.com/images/I/61vRnOeyPOL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BGYBBMRF?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
