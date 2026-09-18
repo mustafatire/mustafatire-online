@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789749826109",
+    "baslik": "AMD Ryzen 7 8700G - 4.2 GHz - 8 Çekirdek - 16 Diş - 16 MB Cache-Speicher - AM5 Soket - OEM",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 16138,
+    "yeniFiyat": 15360,
+    "indirimOrani": 5,
+    "netKazanc": 778,
+    "resim": "https://m.media-amazon.com/images/I/61vuiMsVpnL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D1CK15PV?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789747856230",
     "baslik": "James Donkey 830 Triple Mode (Bluetooth/2.4G/USB) Gaming Kulaklık",
     "kategori": "cevre-birimleri",
@@ -262,20 +276,6 @@
     "netKazanc": 300,
     "resim": "https://m.media-amazon.com/images/I/71rKDRYq77L._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B07SXNDKNM?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789736866069",
-    "baslik": "AMD Ryzen 5 7600X 6 x 4.7GHz Hexa Core İşlemci (CPU) Tepsi Soket (PC): AM5 105W",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 12051,
-    "yeniFiyat": 11609,
-    "indirimOrani": 4,
-    "netKazanc": 442,
-    "resim": "https://m.media-amazon.com/images/I/71J6BMoFiOL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CTD6CMSS?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
