@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789755226157",
+    "baslik": "MSI PSU MAG A650BNL WHITE 650W 80+ BRONZE POWER SUPPLY",
+    "kategori": "kasa-psu",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2999,
+    "yeniFiyat": 2849,
+    "indirimOrani": 5,
+    "netKazanc": 150,
+    "resim": "https://m.media-amazon.com/images/I/71wUfFhOw9L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BSLL996M?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789753065642",
     "baslik": "Kingston Beast RGB 32GB DDR5 5600MT/s CL36 DIMM Masaüstü Ram - KF556C36BBEA/32TR",
     "kategori": "ssd-ram",
@@ -262,20 +276,6 @@
     "netKazanc": 5680,
     "resim": "https://m.media-amazon.com/images/I/71yyY+Y29WL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B07RWDKZ2D?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789740465774",
-    "baslik": "Kingston Beast 32GB DDR5 5600MT/s CL36 DIMM Masaüstü Ram - KF556C36BBE-32TR",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 29610,
-    "yeniFiyat": 27199,
-    "indirimOrani": 8,
-    "netKazanc": 2411,
-    "resim": "https://m.media-amazon.com/images/I/61tycZWLzhL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D3SPJTZK?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
