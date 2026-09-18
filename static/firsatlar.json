@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789743885721",
+    "baslik": "COUGAR Forza 85 Essential 120mm Fanlı AM5/AM4/LGA 1200/1700/1851 Uyumlu 6 Isı Borulu Hava Soğutucu",
+    "kategori": "anakart",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 2791,
+    "yeniFiyat": 1749,
+    "indirimOrani": 37,
+    "netKazanc": 1042,
+    "resim": "https://m.media-amazon.com/images/I/615-cV9m4wL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CS3KRZ5J?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789743525755",
     "baslik": "Enermax LiqMax III ARGB 240 mm beyaz AIO sıvı soğutucu, Intel/AMD işlemciler için su soğutma, ARGB fan, ELC-LMT240/360-W-ARGB",
     "kategori": "anakart",
@@ -262,20 +276,6 @@
     "netKazanc": 2061,
     "resim": "https://m.media-amazon.com/images/I/51BPqCU2E1L._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0BFRCV8K8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789728945726",
-    "baslik": "SSD BLACK NVME 1TB M2 7300/6300 MB/S",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 19999,
-    "yeniFiyat": 18999,
-    "indirimOrani": 5,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/618RFfiA8dL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0B7CPSN2K?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
