@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789751265762",
+    "baslik": "KODAK SSD M2 NVME PCI Express 3.0 Katı Hal Sürücüsü - 2 TB",
+    "kategori": "ssd-ram",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 20000,
+    "yeniFiyat": 15899,
+    "indirimOrani": 21,
+    "netKazanc": 4101,
+    "resim": "https://m.media-amazon.com/images/I/5118fwj2gVL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BCH345MN?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789750556020",
     "baslik": "ASUS TUF GAMING B860M-PLUS Intel LGA1851 mATX Anakart",
     "kategori": "anakart",
@@ -262,20 +276,6 @@
     "netKazanc": 286,
     "resim": "https://m.media-amazon.com/images/I/51LCWLyDtaL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0FQ4WX89P?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789738845641",
-    "baslik": "Samsung Taşınabilir T7 SSD, USB 3.2 Gen 1 TB, 1.050 MB/sn Okuma, 1.000 MB/sn Yazma, Mavi, MU-PC1T0H",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 12284,
-    "yeniFiyat": 11679,
-    "indirimOrani": 5,
-    "netKazanc": 605,
-    "resim": "https://m.media-amazon.com/images/I/814AFgLugLL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B087DF1L2J?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
