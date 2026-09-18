@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789764766530",
+    "baslik": "Dark UGA34 VGA Harici Ekran Kartı",
+    "kategori": "ekran-karti",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 499,
+    "yeniFiyat": 449,
+    "indirimOrani": 10,
+    "netKazanc": 50,
+    "resim": "https://m.media-amazon.com/images/I/41nQIvIOGPL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07DGD6QHQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789763866092",
     "baslik": "Ugreen M.2 NVMe SSD Type-C 3.1 Gen2 PCIe M-Key M+B Key Disk Kutusu",
     "kategori": "ssd-ram",
@@ -262,20 +276,6 @@
     "netKazanc": 969,
     "resim": "https://m.media-amazon.com/images/I/41R4Oc-wiEL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0D1KBNWHF?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789746946939",
-    "baslik": "Rampage RETSU Kablosuz Oyuncu Kulaklığı, 2.4G + Bluetooth 5.3, 50 mm Sürücü, RGB Aydınlatma, Mikrofonlu, Protein Deri ve Kumaş Earpad, PC/PS4/PS5/Mobil",
-    "kategori": "ssd-ram",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 2999,
-    "yeniFiyat": 1246,
-    "indirimOrani": 58,
-    "netKazanc": 1753,
-    "resim": "https://m.media-amazon.com/images/I/61Bxdz3YI2L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HCCJGTDM?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
