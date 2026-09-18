@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789741006275",
+    "baslik": "Team T-Force Delta RGB 16GB 2x8GB 3200MHz CL16 DDR4 Gaming Ram TF3D416G3200HC16CDC01",
+    "kategori": "ssd-ram",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 15579,
+    "yeniFiyat": 9899,
+    "indirimOrani": 36,
+    "netKazanc": 5680,
+    "resim": "https://m.media-amazon.com/images/I/71yyY+Y29WL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07RWDKZ2D?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789740465774",
     "baslik": "Kingston Beast 32GB DDR5 5600MT/s CL36 DIMM Masaüstü Ram - KF556C36BBE-32TR",
     "kategori": "ssd-ram",
@@ -262,20 +276,6 @@
     "netKazanc": 60,
     "resim": "https://m.media-amazon.com/images/I/51z0gjbwsuL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0D6VYVP5C?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789721566007",
-    "baslik": "Claw's Crossfire Air Kablosuz 10000 Dpi Pixart PMW3325 Sensör Makro Yazılımlı Chromatic RGB Kablosuz Gaming Mouse - Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 859,
-    "yeniFiyat": 799,
-    "indirimOrani": 7,
-    "netKazanc": 60,
-    "resim": "https://m.media-amazon.com/images/I/61nPcP9qfbL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D6VZGJD6?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
