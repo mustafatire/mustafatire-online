@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789743525755",
+    "baslik": "Enermax LiqMax III ARGB 240 mm beyaz AIO sıvı soğutucu, Intel/AMD işlemciler için su soğutma, ARGB fan, ELC-LMT240/360-W-ARGB",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 3119,
+    "yeniFiyat": 2899,
+    "indirimOrani": 7,
+    "netKazanc": 220,
+    "resim": "https://m.media-amazon.com/images/I/611C7DJHOuL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B093L6BBZ8?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789742086238",
     "baslik": "MONTECH XR, ATX Mid-Tower PC Oyun Kasası, 3 x 120mm ARGB PWM Fanlar Önceden Yüklenmiş, Tam Görünüm Çift Temperli Cam Panel, Ahşap Tahıl Tasarım G/Ç Arabirimi, 4090 GPU'ları Destekleyin, 360mm Radyatör",
     "kategori": "kasa-psu",
@@ -262,20 +276,6 @@
     "netKazanc": 1000,
     "resim": "https://m.media-amazon.com/images/I/618RFfiA8dL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0B7CPSN2K?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789726255115",
-    "baslik": "SanDisk Extreme PRO 4TB Taşınabilir SSD - 2000MB / s'ye kadar Okuma/Yazma Hızları, USB 3.2 Gen2 x2, Dövme Alüminyum Muhafaza, 2 metrelik düşme koruması ve IP55 direnci",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 39999,
-    "yeniFiyat": 37999,
-    "indirimOrani": 5,
-    "netKazanc": 2000,
-    "resim": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08RX3343D?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
