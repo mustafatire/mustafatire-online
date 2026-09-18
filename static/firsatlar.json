@@ -1,5 +1,33 @@
 [
   {
+    "id": "f-1789726255115",
+    "baslik": "SanDisk Extreme PRO 4TB Taşınabilir SSD - 2000MB / s'ye kadar Okuma/Yazma Hızları, USB 3.2 Gen2 x2, Dövme Alüminyum Muhafaza, 2 metrelik düşme koruması ve IP55 direnci",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 39999,
+    "yeniFiyat": 37999,
+    "indirimOrani": 5,
+    "netKazanc": 2000,
+    "resim": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08RX3343D?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
+    "id": "f-1789726245117",
+    "baslik": "Samsung 870 EVO SATA III 2.5\", 500 GB SSD, 560 MB/sn Okuma, 530 MB/sn Yazma , ‎‎‎MZ-77E500BW",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 9300,
+    "yeniFiyat": 8870,
+    "indirimOrani": 5,
+    "netKazanc": 430,
+    "resim": "https://m.media-amazon.com/images/I/91baxDkqGXL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08T1QQZ1T?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789721576006",
     "baslik": "Claw's Crossfire Air Kablosuz 10000 Dpi Pixart PMW3325 Sensör Makro Yazılımlı Chromatic RGB Kablosuz Gaming Mouse - Beyaz",
     "kategori": "cevre-birimleri",
@@ -248,34 +276,6 @@
     "netKazanc": 45,
     "resim": "https://m.media-amazon.com/images/I/61vRnOeyPOL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0BGYBBMRF?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789682332053",
-    "baslik": "Redragon K617-RGB 16,8 Milyon RGB Aydınlatma, Red Switch Fizz%60 Q Türkçe Kablolu Mekanik Oyuncu Klavyesi Gri Beyaz",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1545,
-    "yeniFiyat": 1468,
-    "indirimOrani": 5,
-    "netKazanc": 77,
-    "resim": "https://m.media-amazon.com/images/I/51terFF14zL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09R3NQLYL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789680528030",
-    "baslik": "Havit Gamenote H2002D 53mm Speaker Gaming Oyuncu Kulaklığı Gelişmiş Ayarlanabilir Mikrofon",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1799,
-    "yeniFiyat": 949,
-    "indirimOrani": 47,
-    "netKazanc": 850,
-    "resim": "https://m.media-amazon.com/images/I/71uVbyS8bSL._AC_SX679_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08F79S57L?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
