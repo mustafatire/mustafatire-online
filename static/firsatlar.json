@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789750546017",
+    "baslik": "GIGABYTE ANAKART AMD AM5 ATX B850 EAGLE WF7 ICE",
+    "kategori": "anakart",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 13692,
+    "yeniFiyat": 11031,
+    "indirimOrani": 19,
+    "netKazanc": 2661,
+    "resim": "https://m.media-amazon.com/images/I/81mNv5TLmxL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0F4HH1J7D?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789749826109",
     "baslik": "AMD Ryzen 7 8700G - 4.2 GHz - 8 Çekirdek - 16 Diş - 16 MB Cache-Speicher - AM5 Soket - OEM",
     "kategori": "anakart",
@@ -262,20 +276,6 @@
     "netKazanc": 1050,
     "resim": "https://m.media-amazon.com/images/I/81hXjrNt-BL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0DQ8JX367?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789737045362",
-    "baslik": "AMD Ryzen 5 3400G 3.7GHz AM4 4C/8T İşlemci",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4800,
-    "yeniFiyat": 4500,
-    "indirimOrani": 6,
-    "netKazanc": 300,
-    "resim": "https://m.media-amazon.com/images/I/71rKDRYq77L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07SXNDKNM?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
