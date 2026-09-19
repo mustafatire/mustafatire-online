@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789803358439",
+    "baslik": "ASRock X670E PG Lightning ATX Anakart AMD AM5 Ryzen 8000 ve 7000, DDR5, 4x M.2 SSD, 4K 120Hz, AMD Expo, USB Type-C",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 11833,
+    "yeniFiyat": 11121,
+    "indirimOrani": 6,
+    "netKazanc": 712,
+    "resim": "https://m.media-amazon.com/images/I/71uh-nSW6vL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BGPH2LQJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789803348440",
     "baslik": "GIGABYTE ANAKART AMD STRX5 E-ATX TRX50 AERO D",
     "kategori": "anakart",
@@ -262,20 +276,6 @@
     "netKazanc": 150,
     "resim": "https://m.media-amazon.com/images/I/71wUfFhOw9L._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0BSLL996M?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789753065642",
-    "baslik": "Kingston Beast RGB 32GB DDR5 5600MT/s CL36 DIMM Masaüstü Ram - KF556C36BBEA/32TR",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 32197,
-    "yeniFiyat": 30449,
-    "indirimOrani": 5,
-    "netKazanc": 1748,
-    "resim": "https://m.media-amazon.com/images/I/611Hqc+22mL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DFKGHTMD?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
