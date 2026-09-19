@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789804068049",
+    "baslik": "Lexar LD4AS008G-B3200GSST Notebook Bellek, 8GB DDR4 3200Mhz Nb So-Dimm",
+    "kategori": "ssd-ram",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 3184,
+    "yeniFiyat": 2599,
+    "indirimOrani": 18,
+    "netKazanc": 585,
+    "resim": "https://m.media-amazon.com/images/I/811mLpFW0-L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09LD3PZNV?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789803358439",
     "baslik": "ASRock X670E PG Lightning ATX Anakart AMD AM5 Ryzen 8000 ve 7000, DDR5, 4x M.2 SSD, 4K 120Hz, AMD Expo, USB Type-C",
     "kategori": "anakart",
@@ -262,20 +276,6 @@
     "netKazanc": 70,
     "resim": "https://m.media-amazon.com/images/I/51mkuYyDdwL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0FCS4Y69B?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789755226157",
-    "baslik": "MSI PSU MAG A650BNL WHITE 650W 80+ BRONZE POWER SUPPLY",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2999,
-    "yeniFiyat": 2849,
-    "indirimOrani": 5,
-    "netKazanc": 150,
-    "resim": "https://m.media-amazon.com/images/I/71wUfFhOw9L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BSLL996M?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
