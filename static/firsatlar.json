@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789813788067",
+    "baslik": "Asus Prime H610M-K ARGB Intel Soket LGA1700 DDR5 5600MHz mATX Gaming (Oyuncu) Anakart",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2495,
+    "yeniFiyat": 2351,
+    "indirimOrani": 6,
+    "netKazanc": 144,
+    "resim": "https://m.media-amazon.com/images/I/818txu20mnL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07ML1XBK3?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789813438299",
     "baslik": "MSI MB PRO B650M-E AM5 DDR5 6800MHZ(OC) HDMI VGA M.2 USB3.2 2.5G LAN mATX",
     "kategori": "anakart",
@@ -262,20 +276,6 @@
     "netKazanc": 16051,
     "resim": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0DSQ3B6PH?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789769626350",
-    "baslik": "GAMEON Call Of Duty 27\" FHD 180Hz, 0,5ms, Pivot, Fast IPS, HDR Ready, HDMI 2.1, PS5 uyumlu Siyah Oyuncu Monitörü",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 6463,
-    "yeniFiyat": 5816,
-    "indirimOrani": 10,
-    "netKazanc": 647,
-    "resim": "https://m.media-amazon.com/images/I/71rDd1Bl-1L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D5D7GQSQ?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
