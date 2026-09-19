@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789814149112",
+    "baslik": "INTENSO SSD - 3835460 - Premium 1TB Gen.3x4 NVMe",
+    "kategori": "ssd-ram",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 8769,
+    "yeniFiyat": 6388,
+    "indirimOrani": 27,
+    "netKazanc": 2381,
+    "resim": "https://m.media-amazon.com/images/I/81x-EaN8YUL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09F4LLK1R?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789813788067",
     "baslik": "Asus Prime H610M-K ARGB Intel Soket LGA1700 DDR5 5600MHz mATX Gaming (Oyuncu) Anakart",
     "kategori": "anakart",
@@ -262,20 +276,6 @@
     "netKazanc": 593,
     "resim": "https://m.media-amazon.com/images/I/716c-SjLwPL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0CC3QBGDL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789774007875",
-    "baslik": "GIGABYTE VGA NVIDIA 16GB GDDR7 RTX5080 AERO OC SFF GV-N5080AERO OC-16GD",
-    "kategori": "ekran-karti",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 115000,
-    "yeniFiyat": 98949,
-    "indirimOrani": 14,
-    "netKazanc": 16051,
-    "resim": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DSQ3B6PH?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
