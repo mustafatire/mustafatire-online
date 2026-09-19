@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789826028383",
+    "baslik": "ASUS PRIME B850M-A WIFI WiFi6E AMD AM5 mATX Anakart",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 9903,
+    "yeniFiyat": 9099,
+    "indirimOrani": 8,
+    "netKazanc": 804,
+    "resim": "https://m.media-amazon.com/images/I/81vvFUYyd7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CJR9PD93?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789825127816",
     "baslik": "AMD Ryzen 7 8700F İşlemci (8 Çekirdek/16 Threads, Ryzen AI, 65 W TDP, AM5 Soket, 24 MB Önbellek, 5,0 GHz'e Kadar Maksimum Boost Frekansı, Wraith Stealth Soğutucu",
     "kategori": "anakart",
@@ -262,20 +276,6 @@
     "netKazanc": 205,
     "resim": "https://m.media-amazon.com/images/I/51EYi5Umy+L._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0CP4PMK6G?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789809288013",
-    "baslik": "Rampage SMX-R66 ROCKET Ultra Hafif Siyah RGB Ledli 12000dpi Gaming Oyuncu Mouse",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1308,
-    "yeniFiyat": 1136,
-    "indirimOrani": 13,
-    "netKazanc": 172,
-    "resim": "https://m.media-amazon.com/images/I/61w83TAXOpL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08YD5NVHV?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
