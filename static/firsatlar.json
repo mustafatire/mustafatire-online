@@ -1,5 +1,19 @@
 [
   {
+    "id": "f-1789821888272",
+    "baslik": "Bloody W60 Max 10.000 CPI 10 Tuş Optik RGB UC3&4 Aktif Kablolu Kırmızı Gaming (Oyuncu) Mouse",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 3474,
+    "yeniFiyat": 1425,
+    "indirimOrani": 59,
+    "netKazanc": 2049,
+    "resim": "https://m.media-amazon.com/images/I/41JspNgZnYL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B095X7WDVF?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye"
+  },
+  {
     "id": "f-1789821708729",
     "baslik": "SteelSeries CS2 Dragon Lore Counter-Strike Wireless Gaming Mouse - 2.4GHz & Bluetooth — 18.000 DPI TrueMove Air Optik Sensör",
     "kategori": "cevre-birimleri",
@@ -262,20 +276,6 @@
     "netKazanc": 245,
     "resim": "https://m.media-amazon.com/images/I/61k8MRot0yL._AC_UL320_.jpg",
     "link": "https://www.amazon.com.tr/dp/B0B9B4917Q?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye"
-  },
-  {
-    "id": "f-1789807308606",
-    "baslik": "ASUS ROG Strix XG27ACS Gen2 27\" 2560x1440 220Hz Fast IPS Oyuncu Monitörü",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 12699,
-    "yeniFiyat": 11999,
-    "indirimOrani": 6,
-    "netKazanc": 700,
-    "resim": "https://m.media-amazon.com/images/I/71nCJt18VqL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09B6NC9CP?tag=motodash-21",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye"
   }
